@@ -127,3 +127,6 @@ session=get_session()
 
 boobs=session.query(Book).all()
 print(boobs)
+
+
+print("Что это за проект?")
